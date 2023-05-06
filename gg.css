@@ -1,0 +1,15 @@
+html {
+    background-color: lightcyan;
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+th {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
